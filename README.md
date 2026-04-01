@@ -11,10 +11,6 @@ The study evaluates:
 
 This project is useful for understanding why **ECC is preferred in modern secure systems**.
 
----
-
-## 🖼️ Visualization Dashboard
-![ECC Dashboard](ecc_comprehensive_analysis.png)
 
 ---
 
